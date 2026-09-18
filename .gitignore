@@ -2,6 +2,7 @@
 /models
 /scripts
 /diffusers
+/outputs/
 /.vscode
 /.opencode
 *.pkl
